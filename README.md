@@ -53,4 +53,8 @@ python solver.py
 (Replace solver.py with whatever filename you saved your script under.)
 
 Check the results:
-Generated SQL queries, short explanations, and query execution outputs are saved to answers.txt.
+Generated SQL queries, short explanations, and query execution outputs are saved to answers.txt.Ű
+
+foglalas_id | vendeg_neve | szobaszam | ejszakak_szama | kedvezmenyes_szallasi_dij
+
+python -m pip install openai mysql-connector-python
